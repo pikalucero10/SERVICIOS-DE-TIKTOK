@@ -1,0 +1,27 @@
+{
+    "platform": "tiktok",
+    "services": {
+      "seguidores": [
+        {
+          "id": 1,
+          "service_name": "ID 3682 TikTok - Seguidores",
+          "price_per_unit": 0.00102
+        }
+      ],
+      "likes": [
+        {
+          "id": 2,
+          "service_name": "",
+          "price_per_unit": 0.0001
+        }
+      ],
+      "vistas": [
+        {
+          "id": 4,
+          "service_name": "ID 1796 - TikTok - Vistas de Video - Max 100M - Barato",
+          "price_per_unit": 0.000001
+        }
+      ]
+    }
+  }
+  
