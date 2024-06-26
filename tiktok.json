@@ -25,6 +25,11 @@
           "id": 4,
           "service_name": "ID 667 pagina de pika celeste",
           "price_per_unit": 0.00001
+        },
+        {
+          "id": 4,
+          "service_name": "ID 71 - vistas Pagina nueva de prueba",
+          "price_per_unit": 0.0000004
         }
       ]
     }
