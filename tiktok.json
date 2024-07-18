@@ -4,32 +4,22 @@
       "seguidores": [
         {
           "id": 1,
-          "service_name": "ID 3682 TikTok - Seguidores",
-          "price_per_unit": 0.00102
+          "service_name": "ID 18 TikTok - Seguidores",
+          "price_per_unit": 0.0005
         }
       ],
       "likes": [
         {
           "id": 2,
-          "service_name": "ID 191 - TikTok - Me gusta - Max 1M",
+          "service_name": "ID 95 - TikTok - Me gusta - Max 1M",
           "price_per_unit": 0.00044
         }
       ],
       "vistas": [
         {
           "id": 4,
-          "service_name": "ID 1796 - TikTok - Vistas de Video - Max 100M - Barato",
-          "price_per_unit": 0.000001
-        },
-        {
-          "id": 4,
-          "service_name": "ID 667 pagina de pika celeste",
-          "price_per_unit": 0.00001
-        },
-        {
-          "id": 4,
-          "service_name": "ID 71 - vistas Pagina nueva de prueba",
-          "price_per_unit": 0.0000004
+          "service_name": "ID 71 - TikTok - Vistas de Video - Max 100M - Barato",
+          "price_per_unit": 0.0000003
         }
       ]
     }
